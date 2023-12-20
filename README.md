@@ -4,11 +4,11 @@ Antuk (Anti-Ngantuk) is a drowsiness detection application that utilizes face re
 
 ## **Table of Contents**
 
-- [Member of CH2-PS482]()
-- [Features]()
-- [Installation]()
-- [How to Use]()
-- [Screenshot]()
+- [Member of CH2-PS482](https://github.com/CH2-PS482/.github/blob/main/README.md#member-of-ch2-ps482)
+- [Features](https://github.com/CH2-PS482/.github/blob/main/README.md#features)
+- [Installation](https://github.com/CH2-PS482/.github/blob/main/README.md#installation)
+- [How to Use](https://github.com/CH2-PS482/.github/blob/main/README.md#how-to-use)
+- [Screenshot](https://github.com/CH2-PS482/.github/blob/main/README.md#screenshot)
 
 ### **Member of CH2-PS482**
 
