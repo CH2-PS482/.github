@@ -20,7 +20,6 @@ Antuk (Anti-Ngantuk) is a drowsiness detection application that utilizes face re
 | C314BSX4389 | Aqmarina Shabihah           | Universitas Singaperbangsa Karawang | [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aqmarina-shabihah)                      |
 | C524BSX3480 | Fransiska Natalia Heryanti  | Politeknik Negeri Banjarmasin       | [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fransiska-natalia-heryanti-746131267/)  |
 | A229BSY2299 | Muhammad Irsyad Hasanuddin  | Universitas Jenderal Soedirman      | [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-irsyad-hasanuddin-9749a9214/)  |
-|             |
 
 ### **Features**
 
